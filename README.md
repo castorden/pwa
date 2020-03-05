@@ -2,7 +2,7 @@
 
 The classic Hello World program as a Progressive Web App
 
-![Hello World Screenshot](./img/screenshot.jpg " Screenshot Hello World ")
+![Hello World Screenshot](./images/screenshot.jpg " Screenshot Hello World ")
 
 ## What It Is
 
