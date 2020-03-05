@@ -1,15 +1,15 @@
 # Hello PWA
+
 The classic Hello World program as a Progressive Web App
 
-![Hello World Screenshot](./screenshot.jpg "Hello World Screenshot")
+![Hello World Screenshot](./img/screenshot.jpg " Screenshot Hello World ")
 
 ## What It Is
 
-A simple PWA demo that displays the text "Hello, World!" utilizing an app manifest, service workers and caching. This demo is written in plain-vanilla HTML, CSS and Javascript (ES6). It has no dependencies.
+Una demostració PWA senzilla que mostra el text "Hola, món!" utilitzant un fitxer de manifest d'aplicació, un worker server i caché. Aquesta demostració està escrita en HTML simple , CSS i Javascript (ES6). No té dependències.
 
-I've also written a tutorial to go along with the code. Read it on Medium:
+Utiliza sintàxis avançada en javascript com funcions anònimes, funcions arrow i promises entre altres i la nova API fetch de html5. 
 
-https://medium.com/james-johnson/a-simple-progressive-web-app-tutorial-f9708e5f2605
 
 ## Demo
 
@@ -17,7 +17,7 @@ https://jamesjohnson280.github.io/hello-pwa/
 
 ## Browser Compatibility
 
-Hello PWA has been tested in the following browsers:
+Hello PWA ha estat testejat en els següents  browsers:
 
 * Chrome 67 (Windows and Android)
 * Firefox 60
