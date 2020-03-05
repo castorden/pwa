@@ -1,6 +1,6 @@
-# Hello PWA
+# Hola PWA
 
-The classic Hello World program as a Progressive Web App
+The classic Hello World java program as a Progressive Web App or shell-app. 
 
 ![Hello World Screenshot](./images/screenshot.jpg " Screenshot Hello World ")
 
@@ -12,12 +12,13 @@ Utiliza sintàxis avançada en javascript com funcions anònimes, funcions arrow
 
 
 ## Demo
+Github ens permet descarregar l'applicació PWD desd'una URL pública
 
-https://jamesjohnson280.github.io/hello-pwa/
+https://castorden.github.io/pwa/
 
 ## Browser Compatibility
 
-Hello PWA ha estat testejat en els següents  browsers:
+Hola PWA ha estat testejat en els següents  browsers:
 
 * Chrome 67 (Windows and Android)
 * Firefox 60
